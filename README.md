@@ -13,19 +13,19 @@ In this project, an event planning team of five was tasked with organizing a cor
 
 ### Communicates and Escalates
 - Regular **status update emails** were sent to stakeholders, ensuring clear and transparent communication about project progress and milestones.
-- I maintained open and effective communication channels with the client through various mediums such as **phone, email, chat, and video**, to ensure that their expectations were met and any concerns were addressed promptly.
+- I maintained open and effective communication channels with the client through various mediums such as **phone, email, chat, and video**, using project management tools like Slack and Zoom, to ensure that their expectations were met and any concerns were addressed promptly.
 
 ### Demonstrates Flexibility
 - I displayed **adaptability and flexibility** in accommodating the client's request to change the retreat's theme, collaborating with team members to implement these changes smoothly and effectively.
-- Throughout the project, I remained flexible in adjusting **timelines, resources, and strategies** to address unforeseen challenges and deliver a successful event.
+- Throughout the project, I remained flexible in adjusting **timelines, resources, and strategies**, utilizing project management software like Trello or Asana, to address unforeseen challenges and deliver a successful event.
 
 ### Applies Organizational Skills
 - I utilized a comprehensive **spreadsheet** to track tasks, assign responsibilities to team members, and monitor their progress, ensuring that all necessary to-dos were managed efficiently.
-- A well-structured **budget tracking system** was implemented, allowing for effective financial management and ensuring that the project stayed within the $100,000 budget.
+- A well-structured **budget tracking system**, supported by project management tools like Microsoft Excel or Google Sheets, was implemented, allowing for effective financial management and ensuring that the project stayed within the $100,000 budget.
 
 ## Conclusion
 
-The Corporate Retreat Planning Project exemplifies my expertise as a project manager in the event planning industry. By showcasing my ability to **enable decision-making**, **communicate and escalate effectively**, **demonstrate flexibility**, and **apply strong organizational skills**, this project demonstrates my competence in successfully leading and delivering complex projects. I invite you to explore the project details and witness the **professionalism and dedication** I bring to every project I undertake.
+The Corporate Retreat Planning Project exemplifies my expertise as a project manager in the event planning industry. By showcasing my ability to **enable decision-making**, **communicate and escalate effectively**, **demonstrate flexibility**, and **apply strong organizational skills**, using a combination of project management tools and software, this project demonstrates my competence in successfully leading and delivering complex projects. I invite you to explore the project details and witness the **professionalism and dedication** I bring to every project I undertake.
 
 Thank you for your time and consideration. If you have any further questions or would like to discuss this project in more detail, please feel free to reach out to me.
 
