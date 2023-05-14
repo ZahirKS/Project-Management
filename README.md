@@ -2,6 +2,8 @@
 
 Welcome to the **Corporate Retreat Planning Project**! This project showcases my skills as a project manager in the event planning industry. In this project, I successfully planned and executed a corporate retreat for a business with 85 employees, demonstrating key project management skills such as **enabling decision-making**, **effective communication and escalation**, **flexibility**, and **strong organizational abilities**.
 
+Furthermore, for a more comprehensive explanation of my approach and thought process throughout the scenario, please refer to the detailed article provided [HERE](https://medium.com/@zahirkowser/how-i-executed-a-corporate-retreat-for-85-employees-with-a-100k-budget-78bb9447ab2c).
+
 ## Scenario
 
 In this project, an event planning team of five was tasked with organizing a corporate retreat that involved numerous tasks, a substantial budget, client-initiated changes, and important discussions with the client. Despite the challenges, I led the team with **determination and expertise**, ensuring a seamless and successful event.
