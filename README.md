@@ -1,4 +1,4 @@
-# Corporate Retreat Planning Project
+# How I executed a Corporate Retreat for 85 employees with a $100k budget?
 
 Welcome to the **Corporate Retreat Planning Project**! This project showcases my skills as a project manager in the event planning industry. In this project, I successfully planned and executed a corporate retreat for a business with 85 employees, demonstrating key project management skills such as **enabling decision-making**, **effective communication and escalation**, **flexibility**, and **strong organizational abilities**.
 
